@@ -1,0 +1,3 @@
+alert('Hola Mundo!!');
+
+src="main.js" type="text/javascript"
